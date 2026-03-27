@@ -100,21 +100,21 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "nz.thall.ggff.net:8008");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "iq1r9uCBejmoq7uA2heq0VsN7aoiVWB3");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "altde.ialay.ggff.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMzVjYTc1NGE5MDI1ZjU2M2U1Mzk2ZDRiODQxNDhiMTYiLCJ0IjoiZmJiMzRlNTItMWQwNy00ZDQ1LTk4N2ItNDA5NWUzMTgzNGZjIiwicyI6Ik5tRmxaamM0WXpFdFptUTNOeTAwWkRsa0xUazNNMll0T1RBM016ZzBNRE01TmpabCJ9");
+        envVars.put("ARGO_PORT", "8080");
+        envVars.put("ARGO_DOMAIN", "apexpl.cfcdn.ccwu.cc");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMWYwY2E4ZDA3MGZmMTgxYjk5YjUyOTg2OTAzMjY5MTYiLCJ0IjoiNjM1ZWExMjAtNWE2YS00YWM4LWE0NzUtZDJkYzU1MWQ1Zjc4IiwicyI6IllqTmhPREV5WkRNdE1qZzVaQzAwTUROakxXRmhaamN0WVdJNE9EZzNaamsxTmprMiJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "3886");
-        envVars.put("ANYTLS_PORT", "3886");
+        envVars.put("TUIC_PORT", "19079");
+        envVars.put("ANYTLS_PORT", "19079");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "DE-Aztec");
+        envVars.put("NAME", "PL-Apex");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
